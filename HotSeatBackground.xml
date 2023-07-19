@@ -2,6 +2,6 @@
 <Context  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="..\..\..\..\..\..\CivTech\Libs\ForgeUI\ForgeUI_Assets\Controls.xsd"
 					ColorSet="BodyTextCool" Style="FontNormal16" FontStyle="Shadow" >
 
-	<Image  ID="HotseatBackground" Size="parent,parent" StretchMode="UniformToFill" ConsumeMouse="1" />
+	<!--Image  ID="HotseatBackground" Size="parent,parent" StretchMode="UniformToFill" ConsumeMouse="1" /-->
 	
 </Context> 
