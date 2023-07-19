@@ -30,7 +30,7 @@ function OnInputHandler( uiMsg, wParam, lParam )
 			OnMenu();
 		end
 	end
-	return true; -- Consume all input
+	return false; -- MidnightChems Note: Change this line to remove the HotSeat prompt
 end
 
 -- ===========================================================================
